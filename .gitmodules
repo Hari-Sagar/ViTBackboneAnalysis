@@ -1,3 +1,6 @@
 [submodule "ibot"]
 	path = ibot
 	url = https://github.com/bytedance/ibot.git
+[submodule "dinov2"]
+	path = dinov2
+	url = https://github.com/facebookresearch/dinov2.git
