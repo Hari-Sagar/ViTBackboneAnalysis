@@ -4,6 +4,6 @@
 [submodule "dinov2"]
 	path = dinov2
 	url = https://github.com/facebookresearch/dinov2.git
-[submodule "masked-autoencoder"]
-	path = masked-autoencoder
-	url = https://github.com/bwconrad/masked-autoencoder.git
+[submodule "mae"]
+	path = mae
+	url = https://github.com/facebookresearch/mae.git
