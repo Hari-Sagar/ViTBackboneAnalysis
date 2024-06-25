@@ -17,8 +17,8 @@ Hari Sagar, David Bombara
 1. For the ibot model, create a conda environment
    * conda create --name ibot python=3.8
    * conda activate ibot
-2. cd ibot
-3. pip install -r requirement.txt
+2. cd models/ibot
+3. pip install -r requirements.txt
 4. jupyter server
 5. Run the three notebooks (DeFungi.ipynb, RealWaste.ipynb, fMoW.ipynb)
 6. Repeat for dinov2 and mae
